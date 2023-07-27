@@ -2,7 +2,7 @@
 
 <h3 align="left">Introduction</h3>
 
-In this project, you will execute a Data Engineering Project on WOrd Data using PySpark.
+In this project, you will execute a Data Engineering Project on Word Data using PySpark.
 
 We are going to Extract, Transform and Load that data using PySpark and Postgres Database in AWS.
 
