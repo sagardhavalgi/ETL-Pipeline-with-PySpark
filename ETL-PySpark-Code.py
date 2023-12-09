@@ -26,8 +26,8 @@ wordCount = wordsDF.groupBy("words").count()
 # Load
 
 driver = "org.postgresql.Driver"
-url = "jdbc:postgresql://database-1.c0sanhw4ymut.us-west-2.rds.amazonaws.com/"
-table = "ahmad_schema_pyspark.WordCount"
+url = "jdbc:postgresql:URL"
+table = "Table_name"
 user = "postgres"
 password = ""
 
